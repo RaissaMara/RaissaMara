@@ -1,10 +1,4 @@
 <h2 align="left"> What up!  Here is Raíssa Mara and I am a Computer Science student, from Salvador-BA.</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaissaMara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darck&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
 ###
 
 <div align="left">
