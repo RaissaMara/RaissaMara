@@ -1,5 +1,4 @@
 <h2 align="left"> What up!  Here is Raíssa Mara and I am a Computer Science student, from Salvador-BA.</h2>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
