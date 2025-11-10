@@ -1,4 +1,14 @@
-<h2 align="left"> What up!  Here is Raíssa Mara and I am a Computer Science student, from Salvador-BA.</h2>
+<h3 align="left"> What up!  Here is Raíssa Mara and I am a Computer Science student, from Salvador-BA.</h3>
+
+##
+
+<div style="display: inline-block">
+  <a href="https://github.com/RaissaMara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaissaMara&show_icons=true&theme=transparent&hide_rank=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaMara&langs_count=8&theme=transparent&layout=compact"> 
+</div>
+
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
